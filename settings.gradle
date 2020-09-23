@@ -1,0 +1,4 @@
+include ':common'
+include ':lsweb'
+include ':app'
+rootProject.name = "LsWebView"
